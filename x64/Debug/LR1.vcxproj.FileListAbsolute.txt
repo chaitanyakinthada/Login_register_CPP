@@ -1,0 +1,6 @@
+C:\Users\chait\OneDrive\Desktop\LR1\x64\Debug\LR1.vcxproj.AssemblyReference.cache
+C:\Users\chait\OneDrive\Desktop\LR1\x64\Debug\LR1.LoginForm.resources
+C:\Users\chait\OneDrive\Desktop\LR1\x64\Debug\LR1.vcxproj.GenerateResource.cache
+C:\Users\chait\OneDrive\Desktop\LR1\x64\Debug\LR1.exe
+C:\Users\chait\OneDrive\Desktop\LR1\x64\Debug\LR1.MainForm.resources
+C:\Users\chait\OneDrive\Desktop\LR1\x64\Debug\LR1.RegisterForm.resources
